@@ -1,0 +1,77 @@
+============================================ L3T3: Online References =================================================
+
+Big-O Cheat Sheet. (n.d.). Know Thy Complexities!.
+Retrieved from: https://www.bigocheatsheet.com/
+
+Cloudhadoop. (n.d.). 5 ways to sort an array of custom objects by property in java with examples.
+Retrieved from: https://www.cloudhadoop.com/java-sort-objects-properties/
+
+C Singh. (n.d.). Java program to perform Bubble Sort on Strings.
+Retrieved from: https://beginnersbook.com/2019/04/java-program-to-perform-bubble-sort-on-strings/
+
+cs.usfca.edu. (n.d.). Comparison Sorting Algorithms.
+Retrieved from: https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
+
+cs.usfca.edu. (n.d.). Searching Sorted List.
+Retrieved from: https://www.cs.usfca.edu/~galles/visualization/Search.html
+
+Educative Answers Team. (n.d.). What is a Bubble sort in Java.
+Retrieved from: https://www.educative.io/answers/what-is-a-bubble-sort-in-java
+
+GeeksforGeeks. (2022). Insertion Sort.
+Retrieved from: https://www.geeksforgeeks.org/insertion-sort/
+
+GeeksforGeeks. (2022). Bubble Sort Algorithm.
+Retrieved from: https://www.geeksforgeeks.org/bubble-sort/
+
+GeeksforGeeks. (2022). QuickSort.
+Retrieved from: https://www.geeksforgeeks.org/quick-sort/
+
+javaTpoint. (n.d.). Insertion Sort in Java.
+Retrieved from:  https://www.javatpoint.com/insertion-sort-in-java
+
+L Gupta. (2020). ArrayList addAll() method example.
+Retrieved from: https://howtodoinjava.com/java/collections/arraylist/arraylist-addall-method-example/
+
+L Gupta. (2022). Adding Multiple Items to ArrayList.
+Retrieved from:
+https://howtodoinjava.com/java/collections/arraylist/add-multiple-elements-arraylist/#:~:text=To%20initialize%20an%20ArrayList%20with,%E2%80%9Cb%E2%80%9D%20to%20the%20ArrayList.
+
+Programiz. (n.d.). Java Program to Implement Quick Sort Algorithm.
+Retrieved from: https://www.programiz.com/java-programming/examples/quick-sort
+
+S Singh. (2018). Java.util.ArrayList.addall() method in Java.
+Retrieved from: https://www.geeksforgeeks.org/java-util-arraylist-addall-method-java/
+
+SlayStudy. (n.d.). Binary Search real life examples.
+Retrieved from: https://slaystudy.com/binary-search-real-life-examples/
+
+stackoverflow. (2013). Selection Sort with an ArrayList of objects.
+Retrieved from:
+https://stackoverflow.com/questions/15538059/selection-sort-with-an-arraylist-of-objects
+
+stackoverflow. (2014). Arranging ArrayList of Strings with quicksort not working correctly.
+Retrieved from:
+https://stackoverflow.com/questions/21633997/arranging-arraylist-of-strings-with-quicksort-not-working-correctly
+
+techopedia. (2018). Insertion Sort.
+Retrieved from:  https://www.techopedia.com/definition/20039/insertion-sort
+
+w3schools. (n.d.). Java String compareTo() Method.
+Retrieved from: https://www.w3schools.com/java/ref_string_compareto.asp
+
+
+======================================= L3T3: HyperionDev Resource References ========================================
+
+Adamchik, V. (2009). Sorting.
+Retrieved 25 February 2020, from:
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.ht ml
+
+Dalal, A. (2004). Searching and Sorting Algorithms.
+Retrieved 25 February 2020, from:
+http://www.cs.carleton.edu/faculty/adalal/teaching/f04/117/notes/searchSort.pdf
+
+University of Cape Town. (2014).
+Sorting, searching and algorithm analysis — Object-Oriented Programming in Python 1 documentation.
+Retrieved 25 February 2020, from:
+https://python-textbok.readthedocs.io/en/1.0/Sorting_and_Searching_Algorithms.html
